@@ -1,0 +1,24 @@
+enable : true
+heading : ติดต่อ
+headingSpan : สอบถาม
+title : ติดต่อสอบถาม
+content : ภาควิชาวิศวกรรมคอมพิวเตอร์ คณะวิศวกรรมศาสตร์ มหาวิทยาลัยสงขลานครินทร์ ต.คอหงส์ อ.หาดใหญ่ จ.สงขลา 90112
+enable_maps : true
+mapLatitude : 51.5223477
+mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "CoE"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: 5910110048@psu.ac.th"
+
+  - icon : tf-ion-ios-email-outline
+    info : "Email: 5910110236@psu.ac.th"
+
+  - icon : tf-ion-ios-email-outline
+    info : "Email: 5910110296@psu.ac.th"
+
+  - icon : tf-ion-ios-telephone-outline
+    info : "Phone: 093-7285526"
+    

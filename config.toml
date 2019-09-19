@@ -1,0 +1,125 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Coconut Travel"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+
+    [[menu.nav]]
+    name = "บริการของเรา"
+    URL = "about"
+    weight = 2
+
+  
+
+    [[menu.nav]]
+    name = "สถานที่ท่องเที่ยว"
+    URL = "portfolio"
+    weight = 4
+
+	
+    [[menu.nav]]
+    name = "แพ็คเกจทัวร์"
+    URL = "blog"
+    weight = 7
+
+
+    [[menu.nav]]
+    name = "ทีมงาน"
+    URL = "our-team"
+    weight = 5
+
+    
+
+
+    [[menu.nav]]
+    name = "ติดต่อสอบถาม"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+
+# Meta data
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    icon = "tf-ion-play"
+    heading = "Coconut Travel"
+    content= "ทัวส์ที่ดีที่สุดในประเทศไทย"
+    btn = true
+    btnText="WELCOME TO MY WORLD"
+    btnURL="#services"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "เอาตังค์เธอมา  .. แล้วฉันจะพาไป "
+    content = "เที่ยวยกครัว ทัวร์ยกแก๊งค์ ไปกับโคโคนัท ทราเวล"
+   
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "Themefisher"
+        copyrightURL = "http://www.themefisher.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/waraporn.watayoung"
+
+
+       
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/jin.jindarath"
+
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/nw.namwannnn"
+
+       
+
+       

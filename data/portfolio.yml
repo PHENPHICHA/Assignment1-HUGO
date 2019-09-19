@@ -1,0 +1,53 @@
+enable : true
+heading : สถานที่ท่องเที่ยว
+headingSpan : ยอดฮิต
+filterList :
+  - filterType : ภายในประเทศ
+    filterTitle : ภายในประเทศ
+    
+  - filterType : ต่างประเทศ
+    filterTitle : ต่างประเทศ
+  
+
+portfolioItem :
+  - types : ภายในประเทศ
+    image : images/portfolio/portfolio-1.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : หาดนพรัตน์ธารา
+    description : Noppharatthara Beach
+    
+  - types : ภายในประเทศ
+    image : images/portfolio/portfolio-2.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : เขื่อนเชี่ยวหลาน หรือเขื่อนรัชชประภา 
+    description : Cheow Lan Dam (Ratchaprapa Dam)
+
+  - types : ภายในประเทศ
+    image : images/portfolio/portfolio-3.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : วัดพระธาตุดอยสุเทพ
+    description : Wat Phra That Doi Suthep
+    
+  - types : ต่างประเทศ
+    image : images/portfolio/portfolio-4.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : นองปิง 360 
+    description : Ngong Ping 360
+    
+  - types : ต่างประเทศ
+    image : images/portfolio/portfolio-5.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : ภูเขาไฟฟูจิ 
+    description : Fuji Mountain
+    
+  - types : ต่างประเทศ
+    image : images/portfolio/portfolio-6.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : เมอร์ไลออน พาร์ค 
+    description : Merlion Park

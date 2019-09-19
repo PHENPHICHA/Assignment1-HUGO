@@ -1,0 +1,23 @@
+enable : true
+heading : ทีมงาน
+headingSpan : มืออาชีพ
+teamMember :
+  - image : images/team/team-1.jpg
+    name : วราภรณ์ วาตะยัง 5910110296
+
+    designation : CEO
+    
+     
+      
+  - image : images/team/team-2.jpg
+    name : จินดารัตน์ แซ่โค้ว 5910110048
+    designation : Manager
+    
+      
+      
+  - image : images/team/team-3.jpg
+    name : เพ็ญพิชชา เพ็ชรจำรัส 5910110236
+    designation : Secretary
+   
+     
+  

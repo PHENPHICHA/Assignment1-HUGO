@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coconut Travel</title>
+    <link>https://coconuttravel-hugo.web.app/</link>
+    <description>Recent content on Coconut Travel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="https://coconuttravel-hugo.web.app/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ทัวร์ฮ่องกง วัดแชกงหมิว วัดหวังต้าเซียน</title>
+      <link>https://coconuttravel-hugo.web.app/blog/are-you-doing-the-right-way/</link>
+      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      
+      <guid>https://coconuttravel-hugo.web.app/blog/are-you-doing-the-right-way/</guid>
+      <description>ทัวร์ฮ่องกง วัดแชกงหมิว วัดหวังต้าเซียน เจ้าแม่กวนอิมฮ่องฮำ 3 วัน 2 คืน สายการบินฮ่องกง แอร์ไลน์</description>
+    </item>
+    
+    <item>
+      <title>ทัวร์พม่า พระมหาเจดีย์ชเวดากอง พระพุทธไสยาสน์เจ๊าทัตจี เทพทันใจ</title>
+      <link>https://coconuttravel-hugo.web.app/blog/simple-post-title/</link>
+      <pubDate>Wed, 12 Sep 2018 14:39:16 +0600</pubDate>
+      
+      <guid>https://coconuttravel-hugo.web.app/blog/simple-post-title/</guid>
+      <description>ทัวร์พม่า พระมหาเจดีย์ชเวดากอง พระพุทธไสยาสน์เจ๊าทัตจี เทพทันใจ 2 วัน 1 คืน สายการบินเมียนม่าร์ แอร์เวย์</description>
+    </item>
+    
+    <item>
+      <title>ทัวร์ยุโรป มิลาน เกาะเวนิส ฟลอเรนซ์</title>
+      <link>https://coconuttravel-hugo.web.app/blog/2installation/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://coconuttravel-hugo.web.app/blog/2installation/</guid>
+      <description>ทัวร์ยุโรป มิลาน เกาะเวนิส ฟลอเรนซ์ 7 วัน 4 คืน สายการบินกาตาร์ แอร์เวย์</description>
+    </item>
+    
+    <item>
+      <title>ทัวร์ยุโรป อังกฤษ อนุสาวรีย์เสาหินสโตนเฮนจ์ พระราชวังบัคกิ้งแฮม</title>
+      <link>https://coconuttravel-hugo.web.app/blog/simple-image-post/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://coconuttravel-hugo.web.app/blog/simple-image-post/</guid>
+      <description>ทัวร์ยุโรป อังกฤษ อนุสาวรีย์เสาหินสโตนเฮนจ์ พระราชวังบัคกิ้งแฮม 6 วัน 3 คืน สายการบินรอยัล บรูไน แอร์ไลน์</description>
+    </item>
+    
+    <item>
+      <title>ทัวร์ยุโรป เชก ออสเตรีย สโลวัก ฮังการี </title>
+      <link>https://coconuttravel-hugo.web.app/blog/1installation/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://coconuttravel-hugo.web.app/blog/1installation/</guid>
+      <description>ทัวร์ยุโรป เชก ออสเตรีย สโลวัก ฮังการี 7 วัน 4 คืน สายการบินเอมิเรตส์แอร์ไลน์</description>
+    </item>
+    
+    <item>
+      <title>ทัวร์อียิปต์ มหาพีระมิดแห่งกีซ่า มหาสฟิงซ์ ป้อมซิทาเดล</title>
+      <link>https://coconuttravel-hugo.web.app/blog/installation/</link>
+      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      
+      <guid>https://coconuttravel-hugo.web.app/blog/installation/</guid>
+      <description>ทัวร์อียิปต์ มหาพีระมิดแห่งกีซ่า มหาสฟิงซ์ ป้อมซิทาเดล 6 วัน 3 คืน สายการบินอียิปต์ แอร์</description>
+    </item>
+    
+  </channel>
+</rss>
